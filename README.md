@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @0ver-flow. but you can call me Kat!
-- 👀 I’m interested in video games, manga, anime, machine learning and mental health!
+- 👀 I’m interested in video games, manga, anime, music, machine learning and mental health!
 - 🌱 I’m currently learning Python, but want to expand my horizons!
 
 <!---
